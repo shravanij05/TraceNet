@@ -26,14 +26,6 @@ Instead of relying only on a prediction, TraceNet combines model results with su
 ---
 
 # Key Features
-<img width="1402" height="667" alt="T1" src="https://github.com/user-attachments/assets/12c95d87-6559-4bd4-a9a0-22011fab0380" />
-<img width="1300" height="602" alt="T2" src="https://github.com/user-attachments/assets/b118c55a-5caa-4777-936c-4a540b229f8d" />
-<img width="1257" height="617" alt="T6" src="https://github.com/user-attachments/assets/fc625446-56f7-40a4-9bb7-893a52d041d1" />
-<img width="1410" height="676" alt="T5" src="https://github.com/user-attachments/assets/23de2a39-885a-48be-b276-a9b04df23bf9" />
-<img width="1421" height="687" alt="T4" src="https://github.com/user-attachments/assets/604c59ab-b1b1-408a-8e8c-81ef917eca19" />
-<img width="1282" height="637" alt="T3" src="https://github.com/user-attachments/assets/a587090e-a226-4edc-888e-25fc3df3c1e8" />
-
-
 
 ### Multi-Modal Detection
 
@@ -77,6 +69,13 @@ TraceNet provides supporting information about why content may have been flagged
 ### Information Tracking
 
 Related sources and content can be represented through interactive relationships and network graphs.
+
+<img width="1402" height="667" alt="T1" src="https://github.com/user-attachments/assets/12c95d87-6559-4bd4-a9a0-22011fab0380" />
+<img width="1300" height="602" alt="T2" src="https://github.com/user-attachments/assets/b118c55a-5caa-4777-936c-4a540b229f8d" />
+<img width="1257" height="617" alt="T6" src="https://github.com/user-attachments/assets/fc625446-56f7-40a4-9bb7-893a52d041d1" />
+<img width="1410" height="676" alt="T5" src="https://github.com/user-attachments/assets/23de2a39-885a-48be-b276-a9b04df23bf9" />
+<img width="1421" height="687" alt="T4" src="https://github.com/user-attachments/assets/604c59ab-b1b1-408a-8e8c-81ef917eca19" />
+<img width="1282" height="637" alt="T3" src="https://github.com/user-attachments/assets/a587090e-a226-4edc-888e-25fc3df3c1e8" />
 
 ---
 
@@ -573,10 +572,6 @@ The system is intended to provide **automated analysis and supporting evidence**
 
 ---
 
-
-
----
-
 # Project Philosophy
 
 > **Trace before you Trust.**
@@ -584,6 +579,24 @@ The system is intended to provide **automated analysis and supporting evidence**
 TraceNet is built around a simple idea:
 
 **Don't just ask whether information is true — trace where it came from, how it is connected, and what evidence supports it.**
+
+---
+
+## 🏆 Achievement
+
+Won **1st Place in the Software Category at Colloquium '26**.
+
+---
+
+## Contributors
+
+This project was collaboratively developed by our team of five members.
+
+- Althia Ferreira 
+- Bhoomi Koli
+- Bliss Gonsalves
+- Jibi Johny
+- Shravani Joshi
 
 ---
 
