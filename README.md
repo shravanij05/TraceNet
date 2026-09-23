@@ -582,13 +582,13 @@ TraceNet is built around a simple idea:
 
 ---
 
-## 🏆 Achievement
+# Achievement
 
 Won **1st Place in the Software Category at Colloquium '26**.
 
 ---
 
-## Contributors
+# Contributors
 
 This project was collaboratively developed by our team of five members.
 
@@ -600,7 +600,7 @@ This project was collaboratively developed by our team of five members.
 
 ---
 
-## License
+# License
 
 This project is intended for educational, research, and demonstration purposes.
 
